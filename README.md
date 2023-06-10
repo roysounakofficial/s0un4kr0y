@@ -11,6 +11,3 @@ Hello 👋, I'm Sounak Roy. <br>And I'm a Software Engineer.<br><br>💻 I'm cur
 ![](https://github-readme-stats.vercel.app/api?username=st4rr3h&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=st4rr3h&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=st4rr3h&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=st4rr3h&theme=radical&no-frame=false&no-bg=false&margin-w=4)

@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Sounak Roy
 
-I'm a Software Engineer with over 5years of product development experience.<br>
+I'm a Software Engineer with over 5years of Product Development experience.<br>
 💻 I'm currently working as an SDE 2 with Fynd (Jio) - [JioMart](https://www.jiomart.com/)<br>
 ⚙️ My Tech Stack - C, C++, Python, Java<br>
 📄 Know about my experiences : [Here](https://drive.google.com/file/d/1M0KffA_cfROKYAIYOZhmXBkDN7GaLUPv/view?usp=drive_link)<br>
